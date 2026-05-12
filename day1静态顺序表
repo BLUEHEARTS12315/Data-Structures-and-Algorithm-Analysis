@@ -1,5 +1,4 @@
-#include "Test5.h"
-
+#此为静态顺序表的演示与练习
 #include <cstring>
 #include <iostream>
 using namespace std;
